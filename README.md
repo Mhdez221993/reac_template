@@ -68,3 +68,48 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+================
+
+### Verify linters
+
+```cmd
+npx eslint .
+npx stylelint "**/*.{css,scss}"
+```
+- Autofix linters errors
+
+```cmd
+npx eslint . --fix
+npx stylelint "**/*.{css,scss}" --fix
+```
+
+
+👤 **Moises Hernandez Coronado**
+
+- GitHub: [@Mhdez221993](https://github.com/Mhdez221993)
+- Twitter: [@MoisesH42060050](https://twitter.com/MoisesH42060050)
+- LinkedIn: [Moises Hernandez Coronado](https://www.linkedin.com/in/moises-hernandez-9bbb17145/)
+
+
+=======
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+=======
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+=======
+
+## Acknowledgments
+- Microverse for giving me this chance
+- To my Stand Up Team and coding partners who kept my morale up!
+- The amazing code reviewers for making me improve every day :thumbsup:
+
