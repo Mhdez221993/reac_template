@@ -1,6 +1,32 @@
-# Getting Started with Create React App
+![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
+# React Templete
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can use this templete
+
+## Built With 
+- JavaScript
+- React
+- Webpack
+- HTML/SCSS
+- Node.JS
+- Jest
+- Cypress
+
+
+## Getting Started
+
+If you want a copy of this file go to the github repository and download it from there
+
+- [React Template](https://github.com/Mhdez221993/react-template)
+
+### Setup
+
+```cmd
+git clone  git@github.com:Mhdez221993/JavaScript-capstone-project.git
+cd JavaScript-capstone-project
+npm install
+npm start
+```
 
 ## Available Scripts
 
