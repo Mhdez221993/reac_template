@@ -1,5 +1,6 @@
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 # React Templete
+This project is a react boiler plate that you can use as a template just press the green button `Use this template`.
 
 You can use this templete
 
